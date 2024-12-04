@@ -1,7 +1,7 @@
-# G2RL-Path-Planning
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CIMBIBOY/G2RL-Path-Planning/blob/master/LICENSE)
+# TJPS-Guided-PPO
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CIMBIBOY/TJPS-Guided-PPO/blob/master/LICENSE)
 
-# The present state of G2RL-Path-Planning is a work in progress. 
+# The present state of TJPS-Guided-PPO is a work in progress. 
 # In case of constructive toughts please open an issue.
 
 __Table of Contents__
@@ -17,7 +17,7 @@ __Table of Contents__
 
 Hey, my name is Márk Czimber, I work as an intern at HUN-REN - SZTAKI, System and Control Theory Laboratory. 
 
-G2RL-Path-Planning is an implementation of [arXiv paper](https://arxiv.org/abs/2005.05420) Mobile Robot Path Planning in Dynamic Environments through Globally Guided Reinforcement Learning.
+TJPS-Guided-PPO is partially based on the implementation of [arXiv paper](https://arxiv.org/abs/2005.05420) Mobile Robot Path Planning in Dynamic Environments through Globally Guided Reinforcement Learning but the task parted with different approaches.
 
 I used open source code parts from [Tushar-ml/G2RL-Path-Planning](https://github.com/Tushar-ml/G2RL-Path-Planning) and [Yu-Haoyang/G2RL-Path-Planning](https://github.com/Yu-Haoyang/G2RL-Path-Planning), which provided some help to implement the paper. Thanks to them from afar!
  
@@ -27,7 +27,7 @@ My goal is to understand, experiment with, improve or even supplement the implem
 
 ### A whole month of work!:
 
-![Alt text](https://github.com/CIMBIBOY/G2RL-Path-Planning/blob/main/commits.png?raw=true "Work Done")
+![Alt text](https://github.com/CIMBIBOY/TJPS-Guided-PPO/blob/main/commits.png?raw=true "Work Done")
 
 ## References
 
